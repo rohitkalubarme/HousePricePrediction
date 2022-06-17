@@ -396,7 +396,7 @@ header{
     display: flex;
     flex-direction: column;
     row-gap: 1rem;
-    margin: 0 0;
+    margin: 0 2rem;
 }
 
 .login-container h2{
